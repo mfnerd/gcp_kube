@@ -1,1 +1,1 @@
-# gcp_kube
+# Create a kubernetes cluster on the Google Cloud Platform
